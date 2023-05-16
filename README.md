@@ -1,4 +1,5 @@
-# E-commerce Back End  
+# Object-Relational Mapping (ORM) Challenge
+E-commerce Back End
 
 ## Description  
 AS A manager at an internet retail company  
@@ -19,4 +20,8 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core  
 THEN I am able to successfully create, update, and delete data in my database  
 
-GitHub Repository URL: https://github.com/prestontravis/E-commerce-Back-End/  
+## Video Walkthrough
+(Coming Soon!)
+
+## GitHub Repository URL 
+https://github.com/prestontravis/E-commerce-Back-End/  
